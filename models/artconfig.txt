@@ -1,0 +1,21 @@
+AddCharModel(230, 25001, "trevor.dff", "trevor.txd");
+AddCharModel(230, 25002, "michael.dff", "michael.txd");
+AddCharModel(230, 25003, "franklin.dff", "franklin.txd");
+AddCharModel(230, 25004, "nicko.dff", "nicko.txd");
+AddCharModel(230, 25005, "tommy.dff", "tommy.txd");
+AddCharModel(230, 25006, "claude.dff", "claude.txd");
+
+AddCharModel(230, 25007, "trump.dff", "trump.txd");
+AddCharModel(230, 25008, "dutch.dff", "dutch.txd");
+AddCharModel(230, 25009, "alan.dff", "alan.txd");
+AddCharModel(230, 25010, "army.dff", "army.txd");
+AddCharModel(230, 25011, "ryder2.dff", "ryder2.txd");
+
+AddCharModel(230, 27001, "euno.dff", "euno.txd");
+AddCharModel(230, 27002, "anicetus.dff", "anicetus.txd");
+AddCharModel(230, 27003, "nerf.dff", "nerf.txd");
+AddCharModel(230, 27004, "vlade.dff", "vlade.txd");
+AddCharModel(230, 27005, "gabie.dff", "gabie.txd");
+AddCharModel(230, 27006, "zoey.dff", "zoey.txd");
+
+AddSimpleModel(-1, 3171, -2001, "tommyhouse.dff", "tommyhouse.txd");

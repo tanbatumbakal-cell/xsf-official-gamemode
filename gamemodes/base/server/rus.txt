@@ -1,0 +1,16 @@
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(80) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(86) : îøèáêà 001: îæèäàëñÿ òîêåí "-identifier-", íî íàéäåí "-integer value-"
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(87) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(87) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(115) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(115) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "format"
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(115) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "query"
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(115) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+D:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\Server\server\materialsystem.pwn(115) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:8.

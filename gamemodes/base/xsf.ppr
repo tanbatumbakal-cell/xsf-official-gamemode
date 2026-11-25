@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Project>
+  <FileList>
+    <DiskObject>\challenges\</DiskObject>
+    <DiskObject>\challenges\challenge_core.pwn</DiskObject>
+    <DiskObject>\challenges\nrgstunts.pwn</DiskObject>
+    <DiskObject>\freeroam\</DiskObject>
+    <DiskObject>\freeroam\cowracing.pwn</DiskObject>
+    <DiskObject>\minigames\</DiskObject>
+    <DiskObject>\minigames\cbug.pwn</DiskObject>
+    <DiskObject>\player\</DiskObject>
+    <DiskObject>\player\moderator.pwn</DiskObject>
+    <DiskObject>\player\player_core.pwn</DiskObject>
+    <DiskObject>\server\</DiskObject>
+    <DiskObject>\server\antiAdvertise.pwn</DiskObject>
+    <DiskObject>\server\anti-advert-new.pwn</DiskObject>
+    <DiskObject>\server\AntiAim.pwn</DiskObject>
+    <DiskObject>\server\events.pwn</DiskObject>
+    <DiskObject>\server\playercountry.pwn</DiskObject>
+    <DiskObject>\server\server_colors.pwn</DiskObject>
+    <DiskObject>\server\server_config.pwn</DiskObject>
+    <DiskObject>\server\server_defines.pwn</DiskObject>
+    <DiskObject>\server\server_vars.pwn</DiskObject>
+  </FileList>
+  <Settings>
+    <Setting name="name">Server</Setting>
+    <Setting name="unique_id">183e9f53-eb96-42b6-b456-4d65fb02c8a3</Setting>
+    <Setting name="copyright_start">2017</Setting>
+    <Setting name="copyright_end">2018</Setting>
+    <Setting name="license">
+  </Setting>
+  </Settings>
+</Project>

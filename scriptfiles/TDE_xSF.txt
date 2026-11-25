@@ -1,0 +1,12 @@
+//Global TextDraws: 
+
+
+new Text:xSF_TD[7];
+
+
+
+
+
+
+//Total textdraws exported: 7 (7 global textdraws / 0 player textdraws) ~ 31/1/2017 ~ 11:10:12
+TDEditor V1.16 by adri1

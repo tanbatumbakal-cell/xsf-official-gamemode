@@ -1,0 +1,32 @@
+*.amx
+*.sublime*
+gamemodes/rus.txt
+pawno/settings.ini
+pawno/settings.ini
+pawno/settings.ini
+*.xml
+*.dat
+*.exe
+pawno/settings.ini
+*.ini
+pawno/include/audio.inc
+pawno/include/fader.inc
+pawno/pawn.cfg
+pawno/settings.ini
+*.ini
+.vscode/tasks.json
+.vscode/launch.json
+gamemodes/Server_1 (2).pwn
+filterscripts/rus.txt
+
+# Private server configuration
+server.cfg
+database_structure.sql
+
+# Runtime data and private server logs
+scriptfiles/BugLog.txt
+scriptfiles/djson-db-cache.*.db
+scriptfiles/ServerLog.json
+scriptfiles/stats.json
+scriptfiles/suggestions.txt
+scriptfiles/SuggestLog.txt

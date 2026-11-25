@@ -1,0 +1,12 @@
+C:\Users\Xeon\Documents\Github\Server-script\gamemodes\events\cs\main.pwn(56) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "NumEventPlayers"
+C:\Users\Xeon\Documents\Github\Server-script\gamemodes\events\cs\main.pwn(58) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "foreach"
+C:\Users\Xeon\Documents\Github\Server-script\gamemodes\events\cs\main.pwn(58) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\Xeon\Documents\Github\Server-script\gamemodes\events\cs\main.pwn(58) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "i"
+C:\Users\Xeon\Documents\Github\Server-script\gamemodes\events\cs\main.pwn(58) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:5.

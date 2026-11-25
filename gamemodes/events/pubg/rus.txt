@@ -1,0 +1,47 @@
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(37) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(38) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(38) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(45) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(50) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_TEXT_DRAWS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(67) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(68) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(70) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "KillTimer"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(71) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(71) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SetTimerEx"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(73) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(77) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawBoxColor"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(78) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawShowForPlayer"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(43) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "fadeinterval"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(43) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "updaterate"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(85) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(134) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_TEXT_DRAWS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(143) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "KillTimer"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(145) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(149) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(150) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(222) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawBoxColor"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(226) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawColor"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(228) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawShowForPlayer"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(237) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "KillTimer"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(239) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(243) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(273) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(274) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(274) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(460) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerTextDrawBoxColor"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(464) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerTextDrawColor"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(466) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerTextDrawShow"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(475) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "KillTimer"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(477) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(481) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\pawno\include\fader.inc(457) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "newcolor"
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\events\pubg\main.pwn(77) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\events\pubg\main.pwn(102) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+G:\USAMA\New folder\Server Server (Orwa)\Scriptv6\gamemodes\events\pubg\main.pwn(109) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
